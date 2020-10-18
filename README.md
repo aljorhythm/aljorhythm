@@ -11,3 +11,4 @@ code, guitar, food
 ## How to reach me:
 
 [gmail](103879u@gmail.com])
+[linkedin](https://www.linkedin.com/in/joel-lim-jing/)
