@@ -4,6 +4,8 @@ Full Stack Software Engineer
 
 Giving Back Power to Customers @ [circles.life](https://www.circles.life/sg/careers/)
 
+See My [stack](https://stackshare.io/aljorhythm)
+
 ## What I do:
 
 code, guitar, food
