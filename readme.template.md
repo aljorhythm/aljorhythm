@@ -10,7 +10,7 @@ See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
 | Likes | Don't Like So Much
 | -- | -- |
-| Type checks<br>Python<br>Strong Duck typing<br>NodeJS/Express<br>Javascript/TypeScript | Reflection<br>VBA<br>Magic<br>AngularJS<br>Springboot |
+| {opinions_yes} | {opinions_no} |
 
 ## What I do
 
@@ -18,4 +18,4 @@ code, guitar, eat
 
 ## How to reach me:
 
-<a href='mailto:103879u@gmail.com'>gmail</a> | <a href='https://www.linkedin.com/in/joel-lim-jing/'>linkedin</a>
+{reach_me}
