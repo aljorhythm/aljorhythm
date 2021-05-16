@@ -6,16 +6,16 @@ Giving Back Power to Customers @ [circles.life](https://www.circles.life/sg/care
 
 See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
-## Opinions
+## How to reach me:
 
-| Likes | Don't Like So Much
-| -- | -- |
-| Type checks<br>Python<br>Strong Duck typing<br>NodeJS/Express<br>Javascript/TypeScript | Reflection<br>VBA<br>Magic<br>AngularJS<br>Springboot |
+<a href='mailto:103879u@gmail.com'>gmail</a> | <a href='https://www.linkedin.com/in/joel-lim-jing/'>linkedin</a> | <a href='https://medium.com/@aljorhythm'>medium</a>
 
 ## What I do
 
 code, guitar, eat
 
-## How to reach me:
+## Opinions
 
-<a href='mailto:103879u@gmail.com'>gmail</a> | <a href='https://www.linkedin.com/in/joel-lim-jing/'>linkedin</a>
+| Likes | Don't Like So Much
+| -- | -- |
+| TDD<br>DevOps<br>Type checks<br>Python<br>Strong Duck typing<br>NodeJS/Express<br>Javascript/TypeScript | Reflection<br>VBA<br>Magic<br>AngularJS<br>Springboot |
