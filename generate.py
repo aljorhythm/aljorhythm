@@ -31,6 +31,9 @@ personal_manifesto = [
         "title": "No silver bullet"
     },
     {
+        "title": "Be extremely cautious about something everyone does"
+    },
+    {
         "title": "The existence of multiple subobtimal solutions does not mean there are no wrong answers"
     },
     {
