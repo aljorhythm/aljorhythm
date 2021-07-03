@@ -14,8 +14,18 @@ See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
 code, guitar, eat
 
-## Opinions
+## Principles and Practices
 
-| Likes | Don't Like So Much
-| -- | -- |
-| TDD<br>DevOps<br>Type checks<br>Python<br>Strong Duck typing<br>NodeJS/Express<br>Javascript/TypeScript | Reflection<br>VBA<br>Magic<br>AngularJS<br>Springboot |
+1. No Silver Bullet
+2. Valuable, meaningful, actionable and quick feedback is paramount
+
+### Software Principles
+
+- Dependency Injection
+- Always ensure backwards compatibility - Changes should avoid downtime or coordination between isolated components
+
+### CI/CD
+
+- Avoid works on my machine at all costs
+- Slow feedback is better than no feedback
+- Fast feedback is better than slow feedback
