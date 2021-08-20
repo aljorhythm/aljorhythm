@@ -18,4 +18,4 @@ code, guitar, eat
 
 - https://www.linkedin.com/posts/joel-lim-jing_most-software-is-never-done-activity-6833578841341075456-qyJS
 - https://github.com/aljorhythm/sql-to-laravel-migrations
-= https://medium.com/aljorhythm/short-lived-branches-and-conflict-phobia-e81ef44c4def
+- https://medium.com/aljorhythm/short-lived-branches-and-conflict-phobia-e81ef44c4def
