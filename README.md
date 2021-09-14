@@ -14,6 +14,12 @@ See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
 code, guitar, eat
 
+## Principles
+
+1. There are no silver bullets, only trade offs
+2. Integrity is the best policy
+3. Be reason-able
+
 ## Work I'm Proud Of
 
 - https://www.linkedin.com/posts/joel-lim-jing_most-software-is-never-done-activity-6833578841341075456-qyJS
