@@ -10,7 +10,7 @@ I like problem solving, thinking critically, asking questions, want to be recept
 
 ## How to reach me:
 
-<a href='mailto:103879u@gmail.com'>gmail</a> | <a href='https://www.linkedin.com/in/joel-lim-jing/'>linkedin</a> | <a href='https://medium.com/@aljorhythm'>medium</a>
+<a href='mailto:103879u@gmail.com'>gmail</a> | <a href='https://www.linkedin.com/in/joel-lim-jing/'>linkedin</a> | <a href='https://medium.com/aljorhythm'>medium</a>
 
 ## What I do
 
