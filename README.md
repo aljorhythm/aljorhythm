@@ -23,6 +23,15 @@ code, guitar, eat
 3. Be reason-able
 4. Always get close to original source of ideas, do not cargo cult
 
+## Software
+
+- Make systems easy to reason about
+- In a context, assume as little as possible
+  - if not encoded, make them explicit if not make them obvious
+- Clear is better than clever
+- Decouple areas of concerns
+- Code is more read than written
+
 ## Work I'm Proud Of
 
 - https://www.linkedin.com/posts/joel-lim-jing_most-software-is-never-done-activity-6833578841341075456-qyJS
