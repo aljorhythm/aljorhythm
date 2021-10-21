@@ -16,7 +16,7 @@ I like problem solving, thinking critically, asking questions, want to be recept
 
 code, guitar, eat
 
-## Stuff I try to live by
+## Stuff I try to engineer by
 
 1. There are no silver bullets, only trade offs
 2. Integrity is the best policy
@@ -31,6 +31,10 @@ code, guitar, eat
 - Clear is better than clever
 - Decouple areas of concerns
 - Code is more read than written
+
+## Quotes I live by
+
+“You must not fool yourself, and you are the easiest person to fool.”  - Richard Feynman
 
 ## Work I'm Proud Of
 
