@@ -44,5 +44,26 @@ code, guitar, eat
 
 ## People I follow
 
+[Martin Fowler & Associates](https://martinfowler.com/)
+- Technology, software Engineering, digital Transformation
+
 [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) | [Geek Incentives](https://geekincentives.substack.com/)
+- Of the TDD fame
+
 [Tech Lead Digest](techleaddigest.net)
+- Weekly digest of a handful of articles
+
+[Prof Galloway](https://www.profgalloway.com/) | [Twitter](https://twitter.com/profgalloway)
+- Business and technology
+
+[John Cutler](https://cutlefish.substack.com) | [Github Epub](https://johnpcutler.github.io/tbm2020/)
+- Product, agile
+
+[StackOverflow blog](https://stackoverflow.blog/)
+- StackOverflow Blog
+
+[Will Larson](https://lethain.com) | [Twitter](https://twitter.com/lethain)
+- Engineering seniorship and leadership
+
+[Bill Wake - Exploring Extreme Programming](https://xp123.com)
+- Extreme Programming
