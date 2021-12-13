@@ -60,10 +60,13 @@ code, guitar, eat
 - Product, agile
 
 [StackOverflow blog](https://stackoverflow.blog/)
-- StackOverflow Blog
+- Blog from the most visited resource for programmers
 
 [Will Larson](https://lethain.com) | [Twitter](https://twitter.com/lethain)
 - Engineering seniorship and leadership
 
 [Bill Wake - Exploring Extreme Programming](https://xp123.com)
 - Extreme Programming
+
+[Underscore VC - Startup Secrets](https://underscore.vc/startupsecrets/)
+- VC, J. Skok
