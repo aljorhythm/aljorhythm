@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Full Stack Software Engineer
+Software Engineer
 
-Giving Back Power to Customers @ [circles.life](https://www.circles.life/sg/careers/)
+Thoughtworker ![image](https://www.thoughtworks.com/etc.clientlibs/thoughtworks/clientlibs/clientlib-site/resources/images/thoughtworks-logo.svg)
 
 See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
