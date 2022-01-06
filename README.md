@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="22" height="22"> Software Engineer | <img src="https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png" width="22" height="22">  Thoughtworker   
+<img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-512.png" width="22" height="22"> Software Engineer  <img src="https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png" width="22" height="22">  Thoughtworker   
 
 See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
