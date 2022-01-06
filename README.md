@@ -1,8 +1,6 @@
 # Hi there 👋
 
-Software Engineer
-
-Thoughtworker <img src="https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png" width="80" height="80">
+Software Engineer | Thoughtworker   <img src="https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png" width="50" height="50">
 
 See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
 
