@@ -2,7 +2,7 @@
 
 Software Engineer
 
-Thoughtworker ![image](https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png)
+Thoughtworker ![image](https://user-images.githubusercontent.com/1833207/148339536-f668dbe3-229c-42b2-9ceb-2e02d67b2aa3.png | width=100)
 
 
 See my [stack on stackshare.io](https://stackshare.io/aljorhythm)
