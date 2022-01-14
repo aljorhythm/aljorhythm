@@ -23,9 +23,9 @@ Agile theatre, faux agile, dark agile
 **Different contexts**
 
 - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
-- Political idealogies
+- Political idealogies and groups
 - Pseudoscience
-- Daily life
+- Daily life habits, folk practices
 
 ### Examples of varying degrees
 
