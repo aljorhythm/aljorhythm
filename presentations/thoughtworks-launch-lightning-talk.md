@@ -16,6 +16,7 @@ evolution
 - communicate what is convenient
 - existing mental models
 - communication is difficult
+- ignorance (less of an excuse for us privileged in information age)
 
 happens if not careful
 
