@@ -87,4 +87,4 @@ Correlation does not imply causation.
 > <br> [Ron Jeffries - Story Points](https://ronjeffries.com/articles/019-01ff/story-points/Index.html)
 
 > The point is, the team doing work decides how to do it. That is a fundamental agile principle. That even means if the team doesn't want to work in an agile way, then agile probably isn't appropriate in that context, and [not using agile] is the most agile way they can do things in some kind of strangely twisted world of logic.
-> <br> [The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html)
+> <br> [Martin Fowler - The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html)
