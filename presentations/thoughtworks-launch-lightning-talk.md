@@ -54,7 +54,10 @@ Agile theatre, faux agile, dark agile
                             - Revenue
                             - Impact, solve problems
 
-Causes and effects run in many directions. 
+Causes and effects run in many directions.
+
+Some loops are self re-inforcing.
+
 Correlation does not imply causation.
 
 - why airplanes and military landing strips?
