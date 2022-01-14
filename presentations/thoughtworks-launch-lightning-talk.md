@@ -77,6 +77,11 @@ Correlation does not imply causation.
 
 3. Be cautious, aware, careful and consistent about how words are used. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
 
+- Cautious: Take a pause
+- Aware: Of your mental models and those of others
+- Careful: As much as possible be precise
+- Consistent: Avoid semantic diffusion
+
 4. Be open minded, consume the literature
 
 ## Literature
