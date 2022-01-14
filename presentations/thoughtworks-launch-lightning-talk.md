@@ -1,19 +1,38 @@
 # Ways Of Working - The Bounds
 
-Some of the more uncommon things we ought to hear
+## Cargo Cult
 
-Cargo Cult
+
 
 ## Why does this happen
 
-we are all humans
+we are humans
 evolution
+
+- look for shortcuts
+- communicate what is convenient
+- existing mental models
+- communication is difficult
 
 ## Agile Cargo Cult
 
-### AKA
+**Also known as**
 
-Agile theatre, faux agile, 
+Agile theatre, faux agile, dark agile
+
+**Different contexts**
+
+- [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
+- Political idealogies
+- Pseudoscience
+- Daily life
+
+### Examples of varying degrees
+
+- Aiming for ever increasing story points
+- *Continuous delivery* without automated tests
+- Only development team is agile
+- Drawing lines on a gantt chart to  
 
 ## What I try to do
 
@@ -26,21 +45,34 @@ Agile theatre, faux agile,
                 - Why experiment quickly?
                     - Why find out what works?
                         - Why deliver value?
-                            - Business / Impact
+                            - Business
+                            - Revenue
+                            - Impact, solve problems
 
-NOTE: Causes and effects run in many directions
+NOTE: Causes and effects run in many directions. Correlation does not imply causation.
+
+- 
 
 2. Seek out the bounds
     - What did people at the core / origin say
-        - What do
-    - How have their thoughts evolved
+        - What are they saying about those claiming to be X but are mistaken
+        - How have their thoughts evolved
+    - The most vibrant arguments over whether B is X
 
-3. 
+- #NoEstimates
+- No QA Teams
+- Agile without iterations
+
+3. Be cautious, aware, careful and consistent about how words are used. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
+
+4. Be open minded
 
 ## Literature
+
+(War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020)[https://www.youtube.com/watch?v=F42A3R28WMU]
 
 > I like to say that I may have invented story points, and if I did, I’m sorry now. Let’s explore my current thinking on story points. At least one of us is interested in what I think. 
 > <br> [Ron Jeffries - Story Points](https://ronjeffries.com/articles/019-01ff/story-points/Index.html)
 
-War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 
-https://www.youtube.com/watch?v=F42A3R28WMU
+> The point is, the team doing work decides how to do it. That is a fundamental agile principle. That even means if the team doesn't want to work in an agile way, then agile probably isn't appropriate in that context, and [not using agile] is the most agile way they can do things in some kind of strangely twisted world of logic.
+> <br> [The State of Agile Software in 2018](https://martinfowler.com/articles/agile-aus-2018.html)
