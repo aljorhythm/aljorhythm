@@ -73,7 +73,7 @@ Correlation does not imply causation.
 
 3. Be cautious, aware, careful and consistent about how words are used. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
 
-4. Be open minded
+4. Be open minded, consume the literature
 
 ## Literature
 
