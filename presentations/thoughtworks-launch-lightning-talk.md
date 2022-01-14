@@ -9,6 +9,7 @@ The term cargo cult as an idiom originally referred to aboriginal religions that
 ## Why does this happen
 
 we are humans
+
 evolution
 
 - look for shortcuts
