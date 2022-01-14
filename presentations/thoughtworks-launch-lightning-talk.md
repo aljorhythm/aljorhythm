@@ -59,10 +59,13 @@ Correlation does not imply causation.
         - we want food
 
 2. Seek out the bounds
+    - alot of times need to know what it is not
+        - null hypothesis
     - What did people at the core / origin say
         - What are they saying about those claiming to be X but are mistaken
         - How have their thoughts evolved
-    - The most vibrant arguments over whether B is X
+    - What those outside the core say
+        - The most vibrant arguments over whether B is X
 
 - #NoEstimates
 - No QA Teams
