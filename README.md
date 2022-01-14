@@ -69,3 +69,14 @@ code, guitar, eat
 
 [Underscore VC - Startup Secrets](https://underscore.vc/startupsecrets/)
 - VC, J. Skok
+
+Kyle from Product thinking
+
+Irrantional Exuberance
+
+Patrick Quah
+
+Coding Horror
+
+Programming Digest
+
