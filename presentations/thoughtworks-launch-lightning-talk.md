@@ -2,7 +2,7 @@
 
 ## Cargo Cult
 
-
+The term cargo cult as an idiom originally referred to aboriginal religions that grew up in the South Pacific after World War II. The practices of these groups centered on building elaborate mock-ups of airplanes and military landing strips in the hope of summoning the god-like beings who arrived in airplanes that had brought marvelous cargo during the war
 
 ## Why does this happen
 
