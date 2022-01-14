@@ -77,7 +77,7 @@ Correlation does not imply causation.
 
 ## Literature
 
-(War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020)[https://www.youtube.com/watch?v=F42A3R28WMU]
+[War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020](https://www.youtube.com/watch?v=F42A3R28WMU)
 
 > I like to say that I may have invented story points, and if I did, I’m sorry now. Let’s explore my current thinking on story points. At least one of us is interested in what I think. 
 > <br> [Ron Jeffries - Story Points](https://ronjeffries.com/articles/019-01ff/story-points/Index.html)
