@@ -66,6 +66,7 @@ Correlation does not imply causation.
         - How have their thoughts evolved
     - What those outside the core say
         - The most vibrant arguments over whether B is X
+        - Disagreers
 
 - #NoEstimates
 - No QA Teams
