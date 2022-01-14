@@ -19,7 +19,7 @@ evolution
 
 happens if not careful
 
-## Agile Cargo Cult
+## Relevant to us: Agile Cargo Cult
 
 **Also known as**
 
