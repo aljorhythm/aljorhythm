@@ -14,6 +14,8 @@ evolution
 - existing mental models
 - communication is difficult
 
+happens if not careful
+
 ## Agile Cargo Cult
 
 **Also known as**
@@ -27,7 +29,7 @@ Agile theatre, faux agile, dark agile
 - Pseudoscience
 - Daily life habits, folk practices
 
-### Examples of varying degrees
+**Examples of varying degree**
 
 - Aiming for ever increasing story points
 - *Continuous delivery* without automated tests
@@ -49,9 +51,12 @@ Agile theatre, faux agile, dark agile
                             - Revenue
                             - Impact, solve problems
 
-NOTE: Causes and effects run in many directions. Correlation does not imply causation.
+Causes and effects run in many directions. 
+Correlation does not imply causation.
 
-- 
+- why airplanes and military landing strips?
+    - why the gods will come?      <-----     ??????
+        - we want food
 
 2. Seek out the bounds
     - What did people at the core / origin say
