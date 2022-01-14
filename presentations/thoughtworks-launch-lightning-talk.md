@@ -34,7 +34,7 @@ Agile theatre, faux agile, dark agile
 - Aiming for ever increasing story points
 - *Continuous delivery* without automated tests
 - Only development team is agile
-- Drawing lines on a gantt chart to  
+- Drawing lines on a gantt chart to split into *iterations*
 
 ## What I try to do
 
