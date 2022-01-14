@@ -11,7 +11,9 @@ evolution
 
 ## Agile Cargo Cult
 
-Agile theatre
+### AKA
+
+Agile theatre, faux agile, 
 
 ## What I try to do
 
@@ -23,7 +25,8 @@ Agile theatre
             - Why change fast confidently?
                 - Why experiment quickly?
                     - Why find out what works?
-                        - Business / Impact
+                        - Why deliver value?
+                            - Business / Impact
 
 NOTE: Causes and effects run in many directions
 
