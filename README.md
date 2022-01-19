@@ -80,3 +80,5 @@ Coding Horror
 
 Programming Digest
 
+Dzone
+https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view
