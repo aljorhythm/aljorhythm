@@ -16,6 +16,7 @@ evolution
 - communicate what is convenient
 - existing mental models
 - communication is difficult
+- ignorance (less of an excuse for us privileged in information age)
 
 happens if not careful
 
@@ -54,7 +55,10 @@ Agile theatre, faux agile, dark agile
                             - Revenue
                             - Impact, solve problems
 
-Causes and effects run in many directions. 
+Causes and effects run in many directions.
+
+Some loops are self re-inforcing.
+
 Correlation does not imply causation.
 
 - why airplanes and military landing strips?
@@ -76,6 +80,11 @@ Correlation does not imply causation.
 - Agile without iterations
 
 3. Be cautious, aware, careful and consistent about how words are used. [No True Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
+
+- Cautious: Take a pause
+- Aware: Of your mental models and those of others
+- Careful: As much as possible be precise
+- Consistent: Avoid semantic diffusion
 
 4. Be open minded, consume the literature
 
