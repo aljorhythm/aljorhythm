@@ -1,5 +1,5 @@
 #example: python3 links_to_markdown.py ../gists/data.yt | pbcoby
-
+# python3 scripts/links_to_markdown.py gists/data.yt | pbcopy
 import sys
 from urllib.parse import urlparse, parse_qs
 
@@ -12,7 +12,7 @@ i = 0
 lines = content.split("\n")
 
 template = """
-{}
+### {}
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/{}/0.jpg)]({} "{}")
 """
 while i < len(lines):
