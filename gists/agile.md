@@ -1,5 +1,7 @@
 # Agile, DevOps, CI/CD 101
 
+## Videos
+
 Modern Continuous Delivery • Ken Mugrage • GOTO 2019
 https://www.youtube.com/watch?v=w008iz_UwDk
 
@@ -45,3 +47,7 @@ https://www.youtube.com/watch?v=F42A3R28WMU
 The Problem with Microservices • Dave Farley • GOTO 2021
 
 https://www.youtube.com/watch?v=V3NQt5KP7EM
+
+# Books / Readings
+
+https://holub.com/reading/
