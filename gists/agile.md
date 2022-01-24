@@ -54,3 +54,9 @@
 
 Getting Started with Agility: Essential Reading
 https://holub.com/reading/
+
+Martin Fowler - The State of Agile Software in 2018
+https://martinfowler.com/articles/agile-aus-2018.html
+
+Agile Software Guide
+https://martinfowler.com/agile.html
