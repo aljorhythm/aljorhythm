@@ -2,8 +2,9 @@
 
 ## Videos
 
-### "Uncle" Bob Martin - "The Future of Programming"
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ecIWPzGEbFc/0.jpg)](https://www.youtube.com/watch?v=ecIWPzGEbFc ""Uncle" Bob Martin - "The Future of Programming"")
+
+### Uncle Bob Martin - The Future of Programming
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ecIWPzGEbFc/0.jpg)](https://www.youtube.com/watch?v=ecIWPzGEbFc "Uncle Bob Martin - The Future of Programming")
 
 
 ### Modern Continuous Delivery • Ken Mugrage • GOTO 2019
@@ -52,7 +53,6 @@
 
 ### The Problem with Microservices • Dave Farley • GOTO 2021
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/V3NQt5KP7EM/0.jpg)](https://www.youtube.com/watch?v=V3NQt5KP7EM "The Problem with Microservices • Dave Farley • GOTO 2021")
-
 
 # Books / Readings
 
