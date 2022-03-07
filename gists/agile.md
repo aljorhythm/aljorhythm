@@ -2,6 +2,10 @@
 
 ## Videos
 
+### "Uncle" Bob Martin - "The Future of Programming"
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ecIWPzGEbFc/0.jpg)](https://www.youtube.com/watch?v=ecIWPzGEbFc ""Uncle" Bob Martin - "The Future of Programming"")
+
+
 ### Modern Continuous Delivery • Ken Mugrage • GOTO 2019
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/w008iz_UwDk/0.jpg)](https://www.youtube.com/watch?v=w008iz_UwDk "Modern Continuous Delivery • Ken Mugrage • GOTO 2019")
 
