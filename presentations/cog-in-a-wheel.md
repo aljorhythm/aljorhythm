@@ -13,6 +13,10 @@ Some thoughts as a software engineer 3 years after graduation
 
 # The Macro
 
+## Seniors.length >>>> Juniors.length
+
+![senior](cog-in-a-wheel/double.png)
+
 # Growth
 
 # Proverbs
