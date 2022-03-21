@@ -41,6 +41,10 @@ code, guitar, eat
 - https://github.com/aljorhythm/sql-to-laravel-migrations
 - https://medium.com/aljorhythm/short-lived-branches-and-conflict-phobia-e81ef44c4def
 
+## My Recommended Readings
+
+[Agile | DevOps | CI/CD](gists/agile.md)
+
 ## People I follow
 
 [Martin Fowler & Associates](https://martinfowler.com/)
