@@ -85,8 +85,8 @@ code, guitar, eat
 [Coding Horror](https://blog.codinghorror.com/)
 - Code and Human Factors
 
-[Dzone](Dzone)
-- https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view
+[dzone](https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view)
+- Loads of articles on development
 
 [Dimitri Glazkov](https://glazkov.com/)
 - Principal Software Engineer at Google
