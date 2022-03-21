@@ -52,6 +52,9 @@ code, guitar, eat
 [Tech Lead Digest](techleaddigest.net)
 - Weekly digest of a handful of articles
 
+[Programming Digest](https://programmingdigest.net/)
+- Weekly Digest
+
 [Prof Galloway](https://www.profgalloway.com/) | [Twitter](https://twitter.com/profgalloway)
 - Business and technology
 
@@ -68,17 +71,22 @@ code, guitar, eat
 - Extreme Programming
 
 [Underscore VC - Startup Secrets](https://underscore.vc/startupsecrets/)
-- VC, J. Skok
+- Venture Capital
 
-Kyle from Product thinking
+[Kyle from Product thinking](https://www.productthinking.cc/)
+- Product Thinking
 
-Irrantional Exuberance
+[Irrational Exuberance](https://lethain.com/about/)
+- Will Larson, CEO of Calm, Author of Staff Engineer
 
-Patrick Quah
+[Level Up - Patrick Kua](https://levelup.patkua.com/)
+- CTO and Chief Scientist of N26 (Berlin, Germany), ex-Technical Principal Consultant at ThoughtWorks, Founder Tech Lead Academy
 
-Coding Horror
+[Coding Horror](https://blog.codinghorror.com/)
+- Code and Human Factors
 
-Programming Digest
+[Dzone](Dzone)
+- https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view
 
-Dzone
-https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view
+[Dimitri Glazkov](https://glazkov.com/)
+- Principal Software Engineer at Google
