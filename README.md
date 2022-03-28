@@ -95,5 +95,8 @@ code, guitar, eat
 [dzone](https://www.mailing.dzone.com/view.html?x=a62e&m=hej&mc=b&s=bSZF&u=f&z=ofWBm1T&pt=view)
 - Loads of articles on development
 
+[Julia Evans](https://jvns.ca/blog/good-questions/)
+- Ex-Stripe SSE
+
 [Dimitri Glazkov](https://glazkov.com/)
 - Principal Software Engineer at Google
