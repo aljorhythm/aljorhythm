@@ -74,6 +74,9 @@ code, guitar, eat
 [Bill Wake - Exploring Extreme Programming](https://xp123.com)
 - Extreme Programming
 
+[Eltjo Poort](https://eltjopoort.nl/posts/feed/)
+- Agile, Software Architecture, Architect of SMS
+
 [Underscore VC - Startup Secrets](https://underscore.vc/startupsecrets/)
 - Venture Capital
 
