@@ -2,6 +2,7 @@
 
 ## Videos
 
+
 ### Uncle Bob Martin - The Future of Programming
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ecIWPzGEbFc/0.jpg)](https://www.youtube.com/watch?v=ecIWPzGEbFc "Uncle Bob Martin - The Future of Programming")
 
@@ -51,7 +52,7 @@
 
 
 ### #NoEstimates - Allen Holub
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QVBlnCTu9MsA/0.jpg)](https://www.youtube.com/watch?v=QVBlnCTu9MsA "#NoEstimates - Allen Holub")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/A1Bsq8HbaAY/0.jpg)](https://www.youtube.com/watch?v=A1Bsq8HbaAY&ab_channel=DevWeekEvents "#NoEstimates - Allen Holub")
 
 
 ### Agile is Dead - Allen Holub
