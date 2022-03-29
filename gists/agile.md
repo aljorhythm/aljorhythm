@@ -52,7 +52,7 @@
 
 
 ### #NoEstimates (Allen Holub)
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/QVBlnCTu9MsA/0.jpg)](https://www.youtube.com/watch?v=QVBlnCTu9MsA "#NoEstimates (Allen Holub)")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QVBlnCTu9MsA/0.jpg)](https://www.youtube.com/watch?v=QVBlnCTu9MsA "#NoEstimates Allen Holub")
 
 
 ### The Problem with Microservices • Dave Farley • GOTO 2021
