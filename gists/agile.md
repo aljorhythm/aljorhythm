@@ -51,16 +51,11 @@
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/F42A3R28WMU/0.jpg)](https://www.youtube.com/watch?v=F42A3R28WMU "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile • Allen Holub • GOTO 2020 ")
 
 
+### #NoEstimates (Allen Holub)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QVBlnCTu9MsA/0.jpg)](https://www.youtube.com/watch?v=QVBlnCTu9MsA "#NoEstimates (Allen Holub)")
+
+
 ### The Problem with Microservices • Dave Farley • GOTO 2021
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/V3NQt5KP7EM/0.jpg)](https://www.youtube.com/watch?v=V3NQt5KP7EM "The Problem with Microservices • Dave Farley • GOTO 2021")
 
-# Books / Readings
 
-Getting Started with Agility: Essential Reading
-https://holub.com/reading/
-
-Martin Fowler - The State of Agile Software in 2018
-https://martinfowler.com/articles/agile-aus-2018.html
-
-Agile Software Guide
-https://martinfowler.com/agile.html
