@@ -100,3 +100,6 @@ code, guitar, eat
 
 [Dimitri Glazkov](https://glazkov.com/)
 - Principal Software Engineer at Google
+
+[All Things Linguistics](https://allthingslinguistic.com)
+- Linguistics
