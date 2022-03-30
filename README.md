@@ -103,3 +103,6 @@ code, guitar, eat
 
 [All Things Linguistics](https://allthingslinguistic.com)
 - Linguistics
+
+[GOTO Conference](https://www.youtube.com/c/GotoConferences/videos)
+- Up to date technology/software conference
