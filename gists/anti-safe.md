@@ -17,4 +17,4 @@
 
 [In praise of SWARMing - Dan North](https://dannorth.net/2018/01/26/in-praise-of-swarming/)
 
-[Why Safe Is Not the Scaled Agile Approach You Need](https://agileforest.com/2018/06/24/why-safe-is-not-the-scaled-agile-approach-you-need/)
+[Why Safe Is Not the Scaled Agile Approach You Need - Agile Forest](https://agileforest.com/2018/06/24/why-safe-is-not-the-scaled-agile-approach-you-need/)
