@@ -106,3 +106,6 @@ code, guitar, eat
 
 [GOTO Conference](https://www.youtube.com/c/GotoConferences/videos)
 - Up to date technology/software conference
+
+[TreeDots](https://threedots.tech/)
+- Technical writeups
