@@ -31,10 +31,10 @@ code, guitar, eat
 - Decouple areas of concerns
 - Code is more read than written
 
-## Quotes I live by
+## Quotes
 
-“You must not fool yourself, and you are the easiest person to fool.”  - Richard Feynman
-
+You must not fool yourself, and you are the easiest person to fool.  - Richard Feynman
+if the energy cost of sin is less than that of virtue then sin is what you will get
 ## Work I'm Proud Of
 
 - https://www.linkedin.com/posts/joel-lim-jing_most-software-is-never-done-activity-6833578841341075456-qyJS
