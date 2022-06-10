@@ -21,3 +21,4 @@
 
 [SAFE BAD - 5 minute devops](https://bdfinst.medium.com/5-minute-devops-safe-isnt-6108f95bef23)
 
+[SAFE is like the BORG](https://medium.com/serious-scrum/safe-is-like-the-borg-2f2048e7f504)
